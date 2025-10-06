@@ -1,0 +1,38 @@
+[
+  {
+    "ratings": [
+      {
+        "score": 4,
+        "comment": "Good"
+      },
+      {
+        "score": 3,
+        "comment": "Meh"
+      }
+    ],
+    "food_outlet": {
+      "name": "McDonald's",
+      "location": "University Boulevard"
+    }
+  },
+  {
+    "ratings": [{
+      "score": 1,
+      "comment": "Bad"
+    }],
+    "food_outlet": {
+      "name": "Popeye's",
+      "location": "Wesbrook Mall"
+    }
+  },
+  {
+    "ratings": [{
+      "score": 5,
+      "comment": "Great"
+    }],
+    "food_outlet": {
+      "name": "Chipotle",
+      "location": "UBC"
+    }
+  }
+]
